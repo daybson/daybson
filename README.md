@@ -11,7 +11,7 @@
 
 Hi, I'm Daybson Paisante, a Unity Game Developer 🚀 from Brazil! currently, I'm a indie game/app developer 👨🏽‍💻.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://github.com/daybson/daybson/blob/master/code.gif" />
   
 **Talking about Personal Stuffs:**
 
