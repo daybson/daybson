@@ -1,15 +1,15 @@
 ### Hey 👋🏽, I'm [Daybson!]
 
-<a href="https://www.linkedin.com/in/paisante/">
+<a href="https://www.linkedin.com/in/paisante/" target="_blank">
   <img align="left" alt="Daybson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/c/GamesCode">
+<a href="https://www.youtube.com/c/GamesCode" target="_blank">
   <img align="left" alt="Daybson's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Daybson Paisante, a Unity Game Developer 🚀 from Brazil! currently, I'm a indie developer 👨🏽‍💻.
+Hi, I'm Daybson Paisante, a Unity Game Developer 🚀 from Brazil! currently, I'm a indie game/app developer 👨🏽‍💻.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -19,9 +19,9 @@ Hi, I'm Daybson Paisante, a Unity Game Developer 🚀 from Brazil! currently, I'
 - 👯 I’m teaching Computer Graphics at the College 🤝;
 - 👨🏽‍💻 I’m also teaching courses on Udemy:  
 <a href="https://www.udemy.com/course/unity-sqlite/?src=sac&kw=unity+s">
-<img align="left" alt="Daybson's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />;
+<img align="left" alt="Daybson's Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />;
 </a>
-- 🔭 My RPG app made in Flutter : https://play.google.com/store/apps/details?id=com.gamescode.rpg3dit
+- 🔭 My RPG app made in Flutter: https://play.google.com/store/apps/details?id=com.gamescode.rpg3dit
 - 📫 How to reach me: daybson.paisante@outlook.com;
 - ⚡ Fun fact: I'm also a cartoonist!
 
