@@ -14,7 +14,6 @@ Hi, I'm Daybson Paisante, a Unity Game Developer 🎮 from Brazil! Currently, I'
    
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Shaders with HSLS / Unity, Blender and OpenCV with Python; 
 - 📚 I’m teaching Computer Graphics at the College 🤝;
 - 📺 I’m also teaching courses on Udemy: https://www.udemy.com/course/unity-sqlite/?src=sac&kw=unity+s
 - 📱 My RPG app made in Flutter: https://play.google.com/store/apps/details?id=com.gamescode.rpg3dit
