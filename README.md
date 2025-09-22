@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning .NET Web API <br>🎯 Goals: Learn something new everyday.</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Node, JS and React <br>🎯 Goals: Learn something new everyday.</p>
 
 ###
 
