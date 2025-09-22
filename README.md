@@ -44,6 +44,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/daybson/daybson/output/snake.svg" alt="Snake animation" />
 
 ###
