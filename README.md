@@ -1,47 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Daybson Paisante 👋
 
-###
+**Senior Software Engineer | .NET & Enterprise System Modernization**
 
-<p align="left">My name is Daybson Paisante and I'm a .NET Web developer, from Brazil - MG.</p>
+### 👨‍💻 About Me
+* ⚙️ **10+ years of experience** building and scaling robust applications, transitioning complex legacy systems to modern distributed architectures.
+* 🏗️ Currently leading the architectural migration of municipal healthcare systems using **C#, .NET Web API, and Angular**.
+* 📱 Creator of published mobile applications utilizing **Flutter and Kotlin** (focusing on offline-first architectures and local data persistence).
+* 🎓 Post-graduate researcher in Informatics, with a strong foundation in system design and computational mathematics.
 
-###
+### 🛠️ Core Stack & Architecture
+* **Backend:** C#, .NET, ASP.NET Web API, Entity Framework Core
+* **Architecture:** Clean Architecture, Domain-Driven Design (DDD), RESTful APIs
+* **Database & Infra:** SQL Server, Docker
+* **Frontend & Mobile:** Angular, Flutter
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Since 2012<br>🎯 Goals: Learn something new everyday.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<h2 align="left">My profile</h2>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/paisante/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-###
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/paisante)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Resume-success?style=flat-square&logo=github)](https://daybson.github.io/curriculo/)
